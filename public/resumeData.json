@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name": "Vinita Rane",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack React Developer by Day",
+    "image": "Vinita_Rane.jpeg",
+    "bio": "My name is Vinita, I'm a Full Stack ReactJS Developer. Currently I'm working at developing my own projects ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "vinitarane1998@gmail.com",
+    "phone": "+91 99999 33333",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Mumbai",
+      "state": "India",
+      "zip": "ABC 123"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/vinita.rane.10",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vinita-rane-7595671aa/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/programmer_mamii/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/vinitaran",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "St. Francis Institute of Technology",
+        "degree": "B.E.(Electronics and Telecommunication)",
+        "graduated": "June 2020",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "T.P. Bhatia college of Science",
+        "degree": "HSC",
+        "graduated": "June 2016",
+        "description": "Passed with 77%"
+      },
+      {
+        "school": "Mary Immaculate Girls' High School",
+        "degree": "SSC",
+        "graduated": "May 2014",
+        "description": "Passed with 88%"
+      }
+    ],
+    "work": [
+      {
+        "company":"Texatrove",
+        "title":"Web Developer",
+        "years":"6 months",
+        "description": "I worked as a web developer at Texatrove. I learned skills such as JavaScript, CSS, Animations, Bootstrap, and many more. Also learned how to work in a team and communicate with team members effectively."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "65%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://fb-clone-6e5b0.web.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amazon1.PNG",
+        "url": "https://youtu.be/OvOC__5Mwi8"
+      },
+
+      {
+        "title": "E-commerce Website",
+        "category": "E-commerce website using HTML, CSS, JavaScript, Bootstrap",
+        "image": "E-commerce-website-landing-page.PNG",
+        "url": ""
+      },
+
+      {
+        "title": "My Blog",
+        "category": "Blog page built with Vanilla JS, Node.js, Express",
+        "image": "myblogpost.PNG",
+        "url": "https://youtu.be/48MJ65N6uHE"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      
+      {
+        "text": "Worked with Vinita on various projects. Excellent work quality, timeliness and communication",
+        "user": "Vikas Yadav"
+      }
+    ]
+  }
+}
