@@ -1,21 +1,19 @@
 {
   "main": {
     "name": "Vinita Rane",
-    "occupation": "ReactJS Developer",
-    "description": "Full Stack React Developer by Day",
+    "occupation": "Full Stack JavaScript Developer",
+    "description": "",
     "image": "Vinita_Rane.jpeg",
-    "bio": "My name is Vinita, I'm a Full Stack ReactJS Developer. Currently I'm working at developing my own projects ",
+    "bio": "My name is Vinita, I'm a Full Stack Developer. Currently I'm working at developing my own projects. Goal-oriented Web Developer with a strong commitment to collaboration and solutions-oriented problem-solving. Looking for an opportunity to work for a well-established organization appreciating dedication and hard work. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "vinitarane1998@gmail.com",
-    "phone": "+91 99999 33333",
+    "phone": "+91 9820112347",
     "address": {
-      "street": "123 Fake Street",
+      "street": "Borivali",
       "city": "Mumbai",
       "state": "India",
-      "zip": "ABC 123"
+      "zip": "400 103"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
@@ -75,6 +73,14 @@
         "level": "60%"
       },
       {
+        "name": "ExpressJs",
+        "level": "50%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "60%"
+      },
+      {
         "name": "CSS",
         "level": "85%"
       },
@@ -92,7 +98,7 @@
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "50%"
       }
     ]
   },
